@@ -30,3 +30,4 @@ while True:
     conn.sendall(b"HTTP/1.1 200 OK \r\n\r\n Welcome to Deepmind")
     # 网页上显示 Welcome to Deepmind
     conn.close()
+    
